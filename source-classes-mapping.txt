@@ -1,0 +1,21 @@
+com/example/quiz/SignUp.java
+ com.example.quiz.SignUp
+ com.example.quiz.SignUp$1
+com/example/quiz/Rules.java
+ com.example.quiz.Rules
+ com.example.quiz.Rules$1
+com/example/quiz/Question.java
+ com.example.quiz.Question
+com/example/quiz/Helper.java
+ com.example.quiz.Helper
+com/example/quiz/Quiz.java
+ com.example.quiz.Quiz
+com/example/quiz/Shared.java
+ com.example.quiz.Shared
+com/example/quiz/Home.java
+ com.example.quiz.Home
+com/example/quiz/MainActivity.java
+ com.example.quiz.MainActivity
+ com.example.quiz.MainActivity$1
+com/example/quiz/BuildConfig.java
+ com.example.quiz.BuildConfig
