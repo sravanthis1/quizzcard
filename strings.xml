@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="login_msg">Welcome</string>
+    <string name="login_sub_msg">Sign in to continue</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up_question">Don\'t have an account yet?</string>
+    <string name="sign_up">Sign Up!</string>
+    <string name="rules_title">Here are the rules of the game:</string>
+    <string name="rules_1">1. This is a quiz game where you answer one question at a time</string>
+    <string name="rules_2">2. Before you submit an answer we ask you to confirm, you won\'t be able to return to the question later</string>
+    <string name="rules_3">3. At the end of the game we show you the results</string>
+    <string name="rules_start">Start the game!</string>
+    <string name="next_question">Next</string>
+    <string name="exit">Exit</string>
+</resources>
